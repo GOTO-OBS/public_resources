@@ -20,9 +20,9 @@ The values in this table (and the plot above) are output by  `throughput.ipynb`.
 
 The values in this table are output by `synphot.ipynb`. Sky fluxes are in e-/s/cm²/arcsec². The 5-sigma limiting magnitude is for a single 60s exposure in a dark sky, at airmass 1 and with seeing of 1.5.
 
-| Filter | Zeropoint </br> (AB mag) | Zeropoint </br> (Vega mag) | Dark sky flux  | Grey sky flux | Bright sky flux | Extinction | Limiting mag |
+| Filter | Zeropoint </br> (AB mag) | Zeropoint </br> (Vega mag) | Dark sky flux  | Grey sky flux | Bright sky flux | Extinction </br> (mag/airmass) | Limiting mag |
 | - | - | - | - | - | - | - | - |
-| L | 22.63 | 22.62 | 0.0031 | 0.0173 | 0.0331 | 0.148 mag | 19.76 |
-| R | 21.33 | 21.14 | 0.0014 | 0.0051 | 0.0096 | 0.099 mag | 18.55 |
-| G | 21.67 | 21.68 | 0.0012 | 0.0070 | 0.0139 | 0.144 mag | 18.85 |
-| B | 21.66 | 21.78 | 0.0007 | 0.0070 | 0.0131 | 0.215 mag | 18.78 |
+| L | 22.63 | 22.62 | 0.0031 | 0.0173 | 0.0331 | 0.148 | 19.76 |
+| R | 21.33 | 21.14 | 0.0014 | 0.0051 | 0.0096 | 0.099 | 18.55 |
+| G | 21.67 | 21.68 | 0.0012 | 0.0070 | 0.0139 | 0.144 | 18.85 |
+| B | 21.66 | 21.78 | 0.0007 | 0.0070 | 0.0131 | 0.215 | 18.78 |

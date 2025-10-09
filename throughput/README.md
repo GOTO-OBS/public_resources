@@ -13,16 +13,16 @@ The values in this table (and the plot above) are output by  `throughput.ipynb`.
 
 | Filter | Midpoint | Bandwidth | Throughput (no atm) |
 | - | - | - | - |
-| L | 5469 Å | 2536 Å | 0.4546 e-/ph |
-| R | 6449 Å |  963 Å | 0.4261 e-/ph |
-| G | 5371 Å |  911 Å | 0.5112 e-/ph |
-| B | 4532 Å | 1066 Å | 0.3711 e-/ph |
+| L | 5469 Å | 2536 Å | 0.4505 e-/ph |
+| R | 6449 Å |  963 Å | 0.4035 e-/ph |
+| G | 5371 Å |  911 Å | 0.5064 e-/ph |
+| B | 4532 Å | 1066 Å | 0.4005 e-/ph |
 
 The values in this table are output by `synphot.ipynb`. Sky fluxes are in e-/s/cm²/arcsec². The 5-sigma limiting magnitude is for a single 60s exposure in a dark sky, at airmass 1 and with seeing of 1.5.
 
 | Filter | Zeropoint </br> (AB mag) | Zeropoint </br> (Vega mag) | Dark sky flux  | Grey sky flux | Bright sky flux | Extinction </br> (mag/airmass) | Limiting mag |
 | - | - | - | - | - | - | - | - |
-| L | 22.63 | 22.62 | 0.0031 | 0.0173 | 0.0331 | 0.148 | 19.76 |
-| R | 21.33 | 21.14 | 0.0014 | 0.0051 | 0.0096 | 0.099 | 18.55 |
-| G | 21.67 | 21.68 | 0.0012 | 0.0070 | 0.0139 | 0.144 | 18.85 |
-| B | 21.66 | 21.78 | 0.0007 | 0.0070 | 0.0131 | 0.215 | 18.78 |
+| L | 22.63 | 22.63 | 0.0031 | 0.0172 | 0.0329 | 0.150 | 19.75 |
+| R | 21.28 | 21.08 | 0.0013 | 0.0049 | 0.0091 | 0.099 | 18.50 |
+| G | 21.66 | 21.67 | 0.0012 | 0.0070 | 0.0138 | 0.145 | 18.84 |
+| B | 21.75 | 21.87 | 0.0007 | 0.0075 | 0.0140 | 0.220 | 18.86 |
